@@ -1,1 +1,6 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+html {
+  font-weight: bold;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 60px;
+}
